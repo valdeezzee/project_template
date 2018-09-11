@@ -1,15 +1,18 @@
 # Research Practicum 2018 – Research Plan (Template)
 (text between brackets to be removed)
 
-> * Group Name: (be creative!)
-> * Group participants names: (alphabetically sorted by last name)
-> * Project Title: (can be changed later)
+> * Group Name: 
+> * Group participants names: Kamryx Davis, Jonathan Valderrama
+> * Project Title: 
 
 ## General Introduction
 
 (States your motivation clearly: why is it important / interesting to solve this problem?)
 (Add real-world examples, if any)
 (Put the problem into a historical context, from what does it originate? Are there already some proposed solutions?)
+
+- There is a need for prostheic arm training
+- Mitigating phantom limb pain
 
 (I tell sutdents to answer the questions, one paragaph each to start if you are lost)
 
