@@ -13,6 +13,7 @@
 
 - There is a need for prostheic arm training
 - Mitigating phantom limb pain
+- A large increase in the number of amputees is expected due to rising obesity rates
 
 (I tell sutdents to answer the questions, one paragaph each to start if you are lost)
 
