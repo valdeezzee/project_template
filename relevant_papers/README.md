@@ -24,6 +24,9 @@
 
 #### Quality of References
 
+According to Google Scholar, this article was cited by 2 people. This paper uses 20 different sources, many of them can be found on PubMed.gov, a publication website by the National Center for Biotechnology Information, U.S. National Library of Medicine. The references that have been used to produce this article, "Immersive Virtual Reality Therapy with Myoelectric Control for Treatment-resistant Phantom Limb Pain: Case Report" have been cited by other people. 
+
+
 #### Reproducibility
 
 #### Rating
