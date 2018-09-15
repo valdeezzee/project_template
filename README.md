@@ -23,6 +23,8 @@ There is an increase in amputees yearly. There is a lack of training and rehabil
 
 (Motivation. Why is this problem interesting and relevant to the research community?)
 
+The purpose of this study is to explore ways to mitigate phatom limb pain in amputees and provide alternate methods for training and rehabiliation.
+
 (Proposed Solution. How do we propose to tackle this problem (that has been identified in the previous para-graphs, is interesting to the community, and has yet to be tackled by other researchers)?)
 
 Creating VR eniroment to immerse the user and better assist in training and rehabilitation.
