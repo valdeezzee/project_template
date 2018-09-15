@@ -18,11 +18,12 @@
 (I tell sutdents to answer the questions, one paragaph each to start if you are lost)
 
 (Problem Statement. One paragraph to describe the prob-lem that you are tackling.)
+There is an increase in amputees yearly. There is a lack of training and rehabilitation for amputees and paralysis victim. 40% - 85% of amputees suffer from phantom limb pain.
 
 (Motivation. Why is this problem interesting and relevant to the research community?)
 
 (Proposed Solution. How do we propose to tackle this problem (that has been identified in the previous para-graphs, is interesting to the community, and has yet to be tackled by other researchers)?)
-
+Creating VR eniroment to immerse the user and better assist in training and rehabilitation.
 (Contributions. An enumeration of the contributions of the senior design project)
 
 (This project makes the following contributions:)(you must have this!!)
