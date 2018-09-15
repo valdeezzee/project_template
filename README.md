@@ -19,7 +19,8 @@
 
 (Problem Statement. One paragraph to describe the prob-lem that you are tackling.)
 
-There is an increase in amputees yearly. There is a lack of training and rehabilitation for amputees and paralysis victim. 40% - 85% of amputees suffer from phantom limb pain.
+
+There is an increase in amputees yearly. The amount of people living with limb loss in the U.S. is expected to more than double in 45 years from 1.6 million in 2005 to 3.6 million in 2050. The drastic increase is due to obesity which can cause dysvascular conditions like diabetes which can lead to limb amputation (Ziegler-Graham et al., 2008).There is a lack of training and rehabilitation for amputees and paralysis victim. 40% - 85% of amputees suffer from phantom limb pain (Chau et al., 2017).
 
 (Motivation. Why is this problem interesting and relevant to the research community?)
 
