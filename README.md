@@ -3,7 +3,7 @@
 
 > * Group Name: 
 > * Group participants names: Kamryx Davis, Jonathan Valderrama
-> * Project Title: 
+> * Project Title: VR environments for amputee prosthetics training and rehabilitation
 
 ## General Introduction
 
