@@ -21,13 +21,13 @@ Chau, B., Phelan, I., Ta, P., Humbert, S., Hata, J., & Tran, D. (2017). Immersiv
 (Summerize/Describe the paper in 3-5 sentences)
 (Executive summary of your whole review in 2-3 sentences)
 
-####Summary of Paper
+#### Summary of Paper
 
 **Immersive Virtual Reality Therapy with Myoelctric Control for Treatment-resistant Phantom Limb Pain: Case Report**
 
 This paper is about using immersive virtual reality therapy along with Myoelectic control to help treat Phantom Limb Pain (PLP), pain in a missing limb. Using these tools this experiment created an immersive virtual reality (VR) version of traditional mirror therapy which has the patient view their intact limb in a mirror to make it appear as their amputated limb. The VR environment included  a virtual kitchen with interactive components such as pots and apples which included virtual hands. This experiment was done with a 49-year old male who became an amputee after a workplace injury. The subject reported an overall pain relief from the immersive virtual reality therapy with myoelectric control.
 
-####Executive Summary
+#### Executive Summary
 
 Overall this is a reproducible and paper with a clear message. Immersive virtual reality therapy with myoelctric control is a possibility for treatment of Phantom Limb Pain. 
 
