@@ -11,6 +11,13 @@
 (Add real-world examples, if any)
 (Put the problem into a historical context, from what does it originate? Are there already some proposed solutions?)
 
+The amount of people living with limb loss is increasing. There is an estimate of 185,000 people that have gone through a upper or lower limb amputation each year. In the United States it is expected that the amount of poeple living with limb loss will double in 45 years. In 2005 that amount was estimated at 1.6 million people and it will increase to 3.6 million in 2050. The drastic increase is due to obesity which can cause dysvascular conditions like diabetes which can lead to limb amputation (Ziegler-Graham et al., 2008). It is not easy living with an lost limb and it becomes tougher to do simple everyday tasks. There is a phenomenon called phatom limb pain (PLP) where there is a sensation of pain in an absent limb in which 40% to 85% of amputees suffer from (Chau et al., 2017). Psychological disorders tend to appears in most people with PLP, including anxiety(66%) and depression(41%). Apart from taking pharmaceutical drugs, there are not many treatments for mititgating PLP. There are two main psycological interventions being used to treat PLP, mental imagery and mirror therapy. 
+
+The purpose of this study is to explore different way of mitigate phantom pain in amputees and provide alternate methods for prosthtics training and rehabilitation.
+
+
+
+
 - There is a need for prostheic arm training
 - Mitigating phantom limb pain
 - A large increase in the number of amputees is expected due to rising obesity rates
@@ -44,16 +51,9 @@ Discuss briefly about published matter that technically relates to your proposed
 
 (Add the bibliographic references you intend to use in format you want)
 
-Carlson, L. E., Choquette, E. J., Ulrey, B. L., & Carley, P. J. Facilitation of Upper Extremity Rehabilitation Using the Myo Armband.
-
 Chau, B., Phelan, I., Ta, P., Humbert, S., Hata, J., & Tran, D. (2017). Immersive virtual reality therapy with myoelectric control for treatment-resistant phantom limb pain: Case report. Innovations in clinical neuroscience, 14(7-8), 3.
 
-Gilpin, H. R., Bellan, V., Gallace, A., & Moseley, G. L. (2014). Exploring the roles of body ownership, vision and virtual reality on heat pain threshold. European Journal of Pain, 18(7), 900-901.
-
- Slater, M., Pérez Marcos, D., Ehrsson, H., & Sanchez-Vives, M. V. (2009). Inducing illusory ownership of a virtual body. Frontiers in neuroscience, 3, 29.
- 
 Ziegler-Graham, K., MacKenzie, E. J., Ephraim, P. L., Travison, T. G., & Brookmeyer, R. (2008). Estimating the prevalence of limb loss in the United States: 2005 to 2050. Archives of physical medicine and rehabilitation, 89(3), 422-429.
-
 
 
 
