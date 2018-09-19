@@ -16,6 +16,7 @@ Chau, B., Phelan, I., Ta, P., Humbert, S., Hata, J., & Tran, D. (2017). Immersiv
 Gilpin, H. R., Bellan, V., Gallace, A., & Moseley, G. L. (2014). Exploring the roles of body ownership, vision and virtual reality on heat pain threshold. European Journal of Pain, 18(7), 900-901.
 * Source 4:
 Slater, M., Pérez Marcos, D., Ehrsson, H., & Sanchez-Vives, M. V. (2009). Inducing illusory ownership of a virtual body. Frontiers in neuroscience, 3, 29.
+* Sourec 5: Ziegler-Graham, K., MacKenzie, E. J., Ephraim, P. L., Travison, T. G., & Brookmeyer, R. (2008). Estimating the prevalence of limb loss in the United States: 2005 to 2050. Archives of physical medicine and rehabilitation, 89(3), 422-429.
 
 
 * [Hawking, S. W. (1974). Black hole explosions?. Nature, 248(5443), 30.](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.75.3702&rep=rep1&type=pdf)
