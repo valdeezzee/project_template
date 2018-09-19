@@ -1,9 +1,9 @@
 # Research Practicum 2018 – Research Plan (Template)
 (text between brackets to be removed)
 
-> * Group Name: (be creative!)
+> * Group Name: MYOwn Reality
 > * Group participants names: Kamryx Davis, Jonathan Valderrama
-> * Project Title: (can be changed later)
+> * Project Title: VR environments for amputee prosthetics training and rehabilitation
 
 ## Relevant Sources
 
