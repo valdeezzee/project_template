@@ -8,13 +8,13 @@
 ## Relevant Sources
 
 (3-5 main sources)
-* Source 1 
+* Source 1: 
 Carlson, L. E., Choquette, E. J., Ulrey, B. L., & Carley, P. J. Facilitation of Upper Extremity Rehabilitation Using the Myo Armband.
-* Source 2 (Review)
+* Source 2 (Review):
 Chau, B., Phelan, I., Ta, P., Humbert, S., Hata, J., & Tran, D. (2017). Immersive virtual reality therapy with myoelectric control for treatment-resistant phantom limb pain: Case report. Innovations in clinical neuroscience, 14(7-8), 3.
-* Source 3
+* Source 3:
 Gilpin, H. R., Bellan, V., Gallace, A., & Moseley, G. L. (2014). Exploring the roles of body ownership, vision and virtual reality on heat pain threshold. European Journal of Pain, 18(7), 900-901.
-* Source 4
+* Source 4:
 Slater, M., Pérez Marcos, D., Ehrsson, H., & Sanchez-Vives, M. V. (2009). Inducing illusory ownership of a virtual body. Frontiers in neuroscience, 3, 29.
 
 
