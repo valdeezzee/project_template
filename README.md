@@ -47,9 +47,23 @@ Creating VR eniroment to immerse the user and better assist in training and reha
 
 Discuss briefly about published matter that technically relates to your proposed work in 4-5 paragraphs.
 
+From several pieces of published literature, we have learned that amputation is becoming an increasingly larger problem worldwide and have learned possible treatments for the rehabilitation of amputees using virtual reality and myoelectric control. 
+ 
+The three causes of limb loss in order of the largest are vascular diseases, trauma, and cancer.  In less than 50 years limb loss is expected to more than double. There are many statistics about amputation available. Amputee Coalition points out that within 5 years, almost half of the amputations caused by vascular diseases will die (Amputee Coalition, 2018). According to Advanced Amputee Solutions, LLC worldwide there are over 1 million limb amputations a year, that's one every 30 seconds (Advanced Amputee Solutions, LLC, 2012). As amputation becomes a larger problem, a better way to rehabilitate amputees is needed.  
+
+Many of these papers explored the concept of virtual body ownership, this can be seen through various versions of the rubber hand illusion, where the subject is fooled to think a rubber hand is their own. The mind can be convinced that a virtual body is their own with synchronous actions between their body and the virtual reality model. Virtual embodiment has been used to allow people to see different things from different perspectives such as the rehabilitation of violent behavior allowing the aggressor to see a violent situation through the eyes of the victim or by reducing racism by putting a person in a body of a different color. Body ownership and its appearance have also been shown to have an effect on pain and body temperature.  
+
+There have been several experiments done with rehabilitation and therapy after conditions such as amputation, stroke, and neurological impairment in the medical industry using newer technologies and techniques such as virtual reality, body sensors, and nerve remapping. Some studies have explored using the Myo Armband for this purpose such as collecting electromyography data to detect progress made in therapy and to control virtual hands. Different VR environments and games have been used in the rehabilitative process. Many of these studies have been done with a small number of test subjects and more studies can be done in this area. From these experiments we have seen VR be successful in reducing pain and anxiety, and as a distraction for people going through medical procedures.  
+
+
 ## References 
 
 (Add the bibliographic references you intend to use in format you want)
+
+Advanced Amputee Solutions, LLC. (2012). Amputee Statistics You Ought to Know. Retrieved from http://www.advancedamputees.com/amputee-statistics-you-ought-know
+
+Amputee Coalition. (2018). Limb Loss Statistics. Retrieved from http://www.amputee-coalition.org/limb-loss-resource-center/resources-filtered/resources-by-topic/limb-loss-statistics/limb-loss-statistics/
+
 Carlson, L. E., Choquette, E. J., Ulrey, B. L., & Carley, P. J. Facilitation of Upper Extremity Rehabilitation Using the Myo Armband.
 
 Chau, B., Phelan, I., Ta, P., Humbert, S., Hata, J., & Tran, D. (2017). Immersive virtual reality therapy with myoelectric control for treatment-resistant phantom limb pain: Case report. Innovations in clinical neuroscience, 14(7-8), 3.
