@@ -39,8 +39,8 @@ Creating VR eniroment to immerse the user and better assist in training and reha
 (Contributions. An enumeration of the contributions of the senior design project)
 
 (This project makes the following contributions:)(you must have this!!)
-•	(Contribution 1)
-•	(Contribution 2)
+• VR therapy and rehabilitation
+•	Prosthetics training
 
 
 ## Related Work
@@ -54,6 +54,8 @@ The three causes of limb loss in order of the largest are vascular diseases, tra
 Many of these papers explored the concept of virtual body ownership, this can be seen through various versions of the rubber hand illusion, where the subject is fooled to think a rubber hand is their own. The mind can be convinced that a virtual body is their own with synchronous actions between their body and the virtual reality model. Virtual embodiment has been used to allow people to see different things from different perspectives such as the rehabilitation of violent behavior allowing the aggressor to see a violent situation through the eyes of the victim or by reducing racism by putting a person in a body of a different color. Body ownership and its appearance have also been shown to have an effect on pain and body temperature.  
 
 There have been several experiments done with rehabilitation and therapy after conditions such as amputation, stroke, and neurological impairment in the medical industry using newer technologies and techniques such as virtual reality, body sensors, and nerve remapping. Some studies have explored using the Myo Armband for this purpose such as collecting electromyography data to detect progress made in therapy and to control virtual hands. Different VR environments and games have been used in the rehabilitative process. Many of these studies have been done with a small number of test subjects and more studies can be done in this area. From these experiments we have seen VR be successful in reducing pain and anxiety, and as a distraction for people going through medical procedures.  
+
+## Research Methods
 
 
 ## References 
