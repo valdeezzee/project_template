@@ -61,5 +61,5 @@ Rating: 3.5
 
 #### Explanation of Rating
 
-I would rate this paper a 3.5, it was an interesting and easy to read paper, but I wouldn’t say it was the best thing I ever read. 
+I would rate this paper a 3.5, it was an interesting and easy to read paper, but I wouldn’t say it was the best thing I ever read. Only one test subject was used so more studies need to be conducted to see if immersive virtual reality therapy with myoelectric control is useful in treating phantom limb pain. 
 
