@@ -50,7 +50,9 @@ There have been several experiments done with rehabilitation and therapy after c
 We want to be able to know the pain level a patient is expriencing before and after they are inside the virtual reality environment. We will be using a Short-Form McGill Pain Questionnaire, Visual Analog Scale (VAS) and the Wong-Baker FACES pain scale, to see if there is any changes in pain. 
 
 • McGill Pain Questionnaire: https://www.physio-pedia.com/Short-form_McGill_Pain_Questionnaire
+
 • VAS: https://www.researchgate.net/profile/Pradeep_Koppolu3/publication/295250172/figure/fig1/AS:333063214125059@1456419866974/Visual-analog-scale.png
+
 • Wong-Baker: http://wongbakerfaces.org/wp-content/uploads/2015/06/FACES_English_Blue1.jpg
 
 For each SHAP test there will be task. We will measure a users performance by time of complete of each test. We will also collect completion times of each task, gender and age. With collecting completion time, we will compare those numbers with the represented virtual limb variables. Some of those variable are going to be: just a hand, hand w/forearm, skin color, gender, glove, no glove. 
