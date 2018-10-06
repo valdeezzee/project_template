@@ -28,27 +28,22 @@ Slater, M., Pérez Marcos, D., Ehrsson, H., & Sanchez-Vives, M. V. (2009). Induc
 (Summerize/Describe the paper in 3-5 sentences)
 (Executive summary of your whole review in 2-3 sentences)
 
+1. [Immersive Virtual Reality Therapy with Myoelctric Control for Treatment-resistant Phantom Limb Pain: Case Report](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5880370/)
+
 #### Summary of Paper
-
-**Immersive Virtual Reality Therapy with Myoelctric Control for Treatment-resistant Phantom Limb Pain: Case Report**
-
 This paper is about using immersive virtual reality therapy along with Myoelectic control to help treat Phantom Limb Pain (PLP), pain in a missing limb. Using these tools this experiment created an immersive virtual reality (VR) version of traditional mirror therapy which has the patient view their intact limb in a mirror to make it appear as their amputated limb. The VR environment included  a virtual kitchen with interactive components such as pots and apples which included virtual hands. This experiment was done with a 49-year old male who became an amputee after a workplace injury. The subject reported an overall pain relief from the immersive virtual reality therapy with myoelectric control.
 
 #### Executive Summary
-
 Overall this is a reproducible and paper with a clear message. Immersive virtual reality therapy with myoelctric control is a possibility for treatment of Phantom Limb Pain. 
 
 #### Clarity of Exposition
-
 This paper is clear and easy to understand. It does a good job of explaining the experiment that was conducted. 
 
 #### Quality of References
-
 According to Google Scholar, this article was cited by 2 people. This paper uses 20 different sources, many of them can be found on PubMed.gov, a publication website by the National Center for Biotechnology Information, U.S. National Library of Medicine. The references that have been used to produce this article, "Immersive Virtual Reality Therapy with Myoelectric Control for Treatment-resistant Phantom Limb Pain: Case Report" have been cited by other people. They seem like reliable sources that this paper used. 
 
 
 #### Reproducibility
-
 This paper is reproducible. The VR hardware setup, the Myo Band, a PC, VR games- Autoshield and Eleven: Table Tennis, and a room with a clear space of at least 5 ft. x 6.5 ft used in this study are fairly easy to get access to. A virtual interactive kitchen environment can be built using Unity. Even though Phantom Limb Pain is common, finding an amputee with this condition would probably be the hardest part of the experiment to secure.This experiment can be reproduced and modified. This study was only done with one patient so results may vary. 
 
 #### Rating
@@ -60,6 +55,28 @@ This paper is reproducible. The VR hardware setup, the Myo Band, a PC, VR games-
 Rating: 3.5
 
 #### Explanation of Rating
+I would rate this paper a 3.5, it was an interesting and easy to read paper, but I wouldn’t say it was the best thing I ever read. Only one test subject was used so more studies need to be conducted to see if immersive virtual reality therapy with myoelectric control is useful in treating phantom limb pain.
 
-I would rate this paper a 3.5, it was an interesting and easy to read paper, but I wouldn’t say it was the best thing I ever read. Only one test subject was used so more studies need to be conducted to see if immersive virtual reality therapy with myoelectric control is useful in treating phantom limb pain. 
+2. [Inducing Illusory Ownership of a Virtual Body](https://www.frontiersin.org/articles/10.3389/neuro.01.029.2009/full)
+
+#### Summary of Paper
+This paper explores the illusion of virtual body ownership focusing on how the brain distinguishes what is part of our body and what is not; it also focuses on how people react to situations in virtual reality as if it was real (presence). The paper does a virtual reality adaptation of the rubber hand illusion, where a person claims “illusory ownership” of a rubber arm. The researchers did different experiments with the virtual reality adaptation of the rubber hand illusion including “visual-tactile”, “visual-motor”, and using a “brain computer interface” to “investigate how virtual limbs and bodies can come to feel like real limbs and bodies” (Slater, M., Pérez Marcos, D., Ehrsson, H., & Sanchez-Vives, M. V., 2009). 
+
+#### Executive Summary
+Overall, this is a reproducible and has a clear purpose which is to explore the illusion of virtual body ownership. 
+
+#### Clarity of Exposition
+This paper is clear and easy to understand. It does a good job of explaining the experiments that were conducted. Some definitions of words used in this paper were also included for reference such as perceptual drift, presence, and virtual reality. 
+
+#### Quality of References
+According to Google Scholar, this paper has been cited 243 times. This paper uses 28 different references. They seem like reliable sources. The paper uses some references from some well-known publishers such as Nature and IEEE.
+
+#### Reproducibility
+This paper is reproducible. Some supplies that are used in these experiments included the ownership illusion questionnaire, virtual reality goggles, a brain computer interface, data gloves, a freedom tracked device “Wand”, head tracking, a back projected screen, a screen to hide the hand, and an EMG. Different groups of volunteers were used with varying numbers of participants such as 14 and 21. Some pictures were included showing the types of experiments were done. 
+
+#### Rating
+Rating: 4
+
+#### Explanation of Rating
+I would give this paper a 4 out of 5, very interesting but not the best thing I’ve ever read. It was interesting to see how the mind can claim “illusory ownership” of virtual body parts and bodies. This experiment was done with multiple people, so the results are more reliable compared to studies only done with one participant. 
 
