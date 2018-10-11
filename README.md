@@ -49,6 +49,7 @@ There have been several experiments done with rehabilitation and therapy after c
 1.	Will variables such as gender and age affect the completion times of the SHAP tests in the VR environment?
 2.	Will VR limb variables such as hand and arm appearance affect the completion times of the SHAP tests?
 3.	Will the VR environment combined with SHAP tests and the MYO armband affect the subjects’ pain levels?
+4. Will the subjects' SHAP tests completion times decrease with multiple trials? 
 
 
 ## Research Methods
@@ -70,6 +71,7 @@ We want to be able to know the pain level a patient is expriencing before and af
 1.	The VR environment combined with the Southampton Hand Assessment Procedure (SHAP) tests and the MYO armband will not increase pain in the test subjects.
 2.	Variables such as gender and age will affect the completion times of the SHAP tests in the VR environment.
 3.	VR limb variables such as hand and arm appearance will affect the completion times of the SHAP tests.
+4. The subjects' SHAP tests completion times will decrease with multiple trials. 
 
 ## References 
 
