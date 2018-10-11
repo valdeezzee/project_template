@@ -45,6 +45,12 @@ Many of these papers explored the concept of virtual body ownership, this can be
 
 There have been several experiments done with rehabilitation and therapy after conditions such as amputation, stroke, and neurological impairment in the medical industry using newer technologies and techniques such as virtual reality, body sensors, and nerve remapping. Some studies have explored using the Myo Armband for this purpose such as collecting electromyography data to detect progress made in therapy and to control virtual hands. Different VR environments and games have been used in the rehabilitative process. Many of these studies have been done with a small number of test subjects and more studies can be done in this area. From these experiments we have seen VR be successful in reducing pain and anxiety, and as a distraction for people going through medical procedures.  
 
+## Research Questions 
+1.	Will variables such as gender and age affect the completion times of the SHAP tests in the VR environment?
+2.	Will VR limb variables such as hand and arm appearance affect the completion times of the SHAP tests?
+3.	Will the VR environment combined with SHAP tests and the MYO armband affect the subjects’ pain levels?
+
+
 ## Research Methods
 
 We will be using Unity3d to create a virtual enviroment where a user can run tests taken from Southampton Hand Assessment Procedure (SHAP). In unity there are plugins to easily implement vr support and also plugins for the myo band. We will import hand assets and then modify their animations to match up with the different gestures the myo band is able to detect. Models will be created for the user to interact with and be able to perform the SHAP tests.
@@ -58,6 +64,12 @@ We want to be able to know the pain level a patient is expriencing before and af
 • VAS: https://www.researchgate.net/profile/Pradeep_Koppolu3/publication/295250172/figure/fig1/AS:333063214125059@1456419866974/Visual-analog-scale.png
 
 • Wong-Baker: http://wongbakerfaces.org/wp-content/uploads/2015/06/FACES_English_Blue1.jpg
+
+
+## Hypotheses
+1.	The VR environment combined with the Southampton Hand Assessment Procedure (SHAP) tests and the MYO armband will not increase pain in the test subjects.
+2.	Variables such as gender and age will affect the completion times of the SHAP tests in the VR environment.
+3.	VR limb variables such as hand and arm appearance will affect the completion times of the SHAP tests.
 
 ## References 
 
