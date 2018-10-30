@@ -103,7 +103,7 @@ We want to be able to know the pain level a patient is expriencing before and af
 
 ## Project Review
 
-![project review](project_review/Project Review.pptx)
+[**Powerpoint**](https://github.com/valdeezzee/project_template/blob/master/project_review/Project Review.pptx)
 
 ## References 
 
