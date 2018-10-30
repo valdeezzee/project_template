@@ -1,4 +1,4 @@
-# Research Practicum 2018 – Research Plan (Template)
+# Research Practicum 2018 – Research Plan
 (text between brackets to be removed)
 
 > * Group Name: MYOwn Reality 
@@ -103,7 +103,7 @@ We want to be able to know the pain level a patient is expriencing before and af
 
 ## Project Review
 
-[**Powerpoint**](https://github.com/valdeezzee/project_template/blob/master/project_review/Project%20Review.pptx)
+[**PPT Presentation**](https://github.com/valdeezzee/project_template/blob/master/project_review/Project%20Review.pptx)
 
 ## References 
 
