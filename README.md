@@ -73,6 +73,22 @@ We want to be able to know the pain level a patient is expriencing before and af
 3.	VR limb variables such as hand and arm appearance will affect the completion times of the SHAP tests.
 4. The subjects' SHAP tests completion times will decrease with multiple trials. 
 
+
+## Preliminary Framework
+• Install Unity 3d
+• Install MYO Connect App
+• Setup scene in Unity
+• Add hand models and modify animations
+• Create scripts to manipulate hand with the MYO armband
+
+## Plan of Attack / Rough Deliverables
+• Create 2 rooms. Empty room as a control and a home environment.
+• Model SHAP tasks and objects.
+• Hand pick up and drop objects.
+• Collect data from trials
+• Plot data
+• Create questionnaires
+
 ## References 
 
 (Add the bibliographic references you intend to use in format you want)
