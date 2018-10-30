@@ -5,6 +5,9 @@
 > * Group participants names: Kamryx Davis, Jonathan Valderrama
 > * Project Title: VR environments for amputee prosthetics training and rehabilitation
 
+## Purpose Statement
+The purpose of this study is to explore different way of mitigating phantom limb pain in amputees and providing alternate methods for prosthetics training and rehabilitation.
+
 ## General Introduction
 
 (States your motivation clearly: why is it important / interesting to solve this problem?)
@@ -13,7 +16,7 @@
 
 The amount of people living with limb loss is increasing. There is an estimate of 185,000 people that have gone through a upper or lower limb amputation each year. In the United States it is expected that the amount of people living with limb loss will double in 45 years. In 2005 that amount was estimated at 1.6 million people and it will increase to 3.6 million in 2050. The drastic increase is due to obesity which can cause dysvascular conditions like diabetes which can lead to limb amputation (Ziegler-Graham et al., 2008). It is not easy living with an lost limb and it becomes tougher to do simple everyday tasks. There is a phenomenon called phantom limb pain (PLP) where there is a sensation of pain in an absent limb in which 40% to 85% of amputees suffer from (Chau et al., 2017). Psychological disorders tend to appears in most people with PLP, including anxiety(66%) and depression(41%). Apart from taking pharmaceutical drugs, there are not many treatments for mititgating PLP. There are two main psycological interventions being used to treat PLP, mental imagery and mirror therapy. 
 
-The purpose of this study is to explore different way of mitigating phantom limb pain in amputees and providing alternate methods for prosthetics training and rehabilitation. With the increasing amount of amputees, there is sure to be a need for more training. There has been studies done for VR therapies but they had small amount of test subject. So conducting more of these types of simulations can benefit to add more research and data to the community.
+With the increasing amount of amputees, there is sure to be a need for more training. There has been studies done for VR therapies but they had small amount of test subject. So conducting more of these types of simulations can benefit to add more research and data to the community.
 
 To tackle this problem, we plan on using Virtual Reality with the combination of the MYO armband. With VR we want to create realistic environments to immerse the user and help reduce pain with different forms of distractions. In the simulation we will have hand and/or arm assets to create the illusion of Virtual Body Ownership. This way the users mind can be convinced that the virtual arm is theirs. The myo armband will be used to collect muscle signals that then get translated to hand gestures. With the hand gestures we will create animations that correspond to the hand gestures the user is making. In addition, we want to create simple tasks that the user can perform. These task will be taken from the Southampton Hand Assessment Procedure (SHAP). It is a clinically validated hand function test. 
 
