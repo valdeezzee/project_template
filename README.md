@@ -44,7 +44,7 @@ From several pieces of published literature, we have learned that amputation is 
  
 The three causes of limb loss in order of the largest are vascular diseases, trauma, and cancer.  In less than 50 years limb loss is expected to more than double. There are many statistics about amputation available. Amputee Coalition points out that within 5 years, almost half of the amputations caused by vascular diseases will die (Amputee Coalition, 2018). According to Advanced Amputee Solutions, LLC worldwide there are over 1 million limb amputations a year, that's one every 30 seconds (Advanced Amputee Solutions, LLC, 2012). As amputation becomes a larger problem, a better way to rehabilitate amputees is needed.  
 
-Many of these papers explored the concept of virtual body ownership, this can be seen through various versions of the rubber hand illusion, where the subject is fooled to think a rubber hand is their own. The mind can be convinced that a virtual body is their own with synchronous actions between their body and the virtual reality model. Virtual embodiment has been used to allow people to see different things from different perspectives such as the rehabilitation of violent behavior allowing the aggressor to see a violent situation through the eyes of the victim or by reducing racism by putting a person in a body of a different color. Body ownership and its appearance have also been shown to have an effect on pain and body temperature.  
+Many of these papers explored the concept of virtual body ownership, on how the brain distinguishes what is part of our body and what is not. This can be seen in Inducing Illusory Ownership by Slater et. al where experiments were conducted with a virtual reality adaptation of the rubber hand illusion, where the subject is fooled to think a rubber hand is their own. The mind can be convinced that a virtual body is their own with synchronous actions between their body and the virtual reality model (Slater et. al, 2009). Virtual embodiment has been used to allow people to see different things from different perspectives such as the rehabilitation of violent behavior allowing the aggressor to see a violent situation through the eyes of the victim or by reducing racism by putting a person in a body of a different color. Body ownership and its appearance have also been shown to have an effect on pain and body temperature.  
 
 There have been several experiments done with rehabilitation and therapy after conditions such as amputation, stroke, and neurological impairment in the medical industry using newer technologies and techniques such as virtual reality, body sensors, and nerve remapping. Some studies have explored using the Myo Armband for this purpose such as collecting electromyography data to detect progress made in therapy and to control virtual hands. Different VR environments and games have been used in the rehabilitative process. Many of these studies have been done with a small number of test subjects and more studies can be done in this area. From these experiments we have seen VR be successful in reducing pain and anxiety, and as a distraction for people going through medical procedures.  
 
@@ -69,7 +69,7 @@ We want to be able to know the pain level a patient is expriencing before and af
 
 • Wong-Baker: http://wongbakerfaces.org/wp-content/uploads/2015/06/FACES_English_Blue1.jpg
 
-• Illusion Of Virtual Body Ownership (IVBO) Questionaire: https://docs.google.com/forms/d/e/1FAIpQLScio4NqZ1kkvEzopqWWGbSmwbG9qwz4K1_u_RrJSqMWwy6z9g/viewform?usp=sf_link
+• Illusion Of Virtual Body Ownership (IVBO) Questionaire modified from (Lugrin, Latt & Latoschik, 2015) IVBO: https://docs.google.com/forms/d/e/1FAIpQLScio4NqZ1kkvEzopqWWGbSmwbG9qwz4K1_u_RrJSqMWwy6z9g/viewform?usp=sf_link
 
 
 ## Hypotheses
@@ -109,6 +109,10 @@ We want to be able to know the pain level a patient is expriencing before and af
 
 [**Presentation Video**](https://www.useloom.com/share/d582eed1f20a4db9a9cf7f687656035c)
 
+## Results
+
+## Conclusions
+
 
 ## References 
 
@@ -123,6 +127,10 @@ Carlson, L. E., Choquette, E. J., Ulrey, B. L., & Carley, P. J. Facilitation of 
 Chau, B., Phelan, I., Ta, P., Humbert, S., Hata, J., & Tran, D. (2017). Immersive virtual reality therapy with myoelectric control for treatment-resistant phantom limb pain: Case report. Innovations in clinical neuroscience, 14(7-8), 3.
 
 Gilpin, H. R., Bellan, V., Gallace, A., & Moseley, G. L. (2014). Exploring the roles of body ownership, vision and virtual reality on heat pain threshold. European Journal of Pain, 18(7), 900-901.
+
+Lugrin, J. L., Landeck, M., & Latoschik, M. E. (2015, March). Avatar embodiment realism and virtual fitness training. In Virtual Reality (VR), 2015 IEEE (pp. 225-226). IEEE.
+
+Lugrin, J. L., Latt, J., & Latoschik, M. E. (2015, October). Anthropomorphism and illusion of virtual body ownership. In Proceedings of the 25th International Conference on Artificial Reality and Telexistence and 20th Eurographics Symposium on Virtual Environments (pp. 1-8). Eurographics Association.
 
 Slater, M., Pérez Marcos, D., Ehrsson, H., & Sanchez-Vives, M. V. (2009). Inducing illusory ownership of a virtual body. Frontiers in neuroscience, 3, 29.
 
