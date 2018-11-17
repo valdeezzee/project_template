@@ -69,6 +69,8 @@ We want to be able to know the pain level a patient is expriencing before and af
 
 • Wong-Baker: http://wongbakerfaces.org/wp-content/uploads/2015/06/FACES_English_Blue1.jpg
 
+• Illusion Of Virtual Body Ownership (IVBO) Questionaire: https://docs.google.com/forms/d/e/1FAIpQLScio4NqZ1kkvEzopqWWGbSmwbG9qwz4K1_u_RrJSqMWwy6z9g/viewform?usp=sf_link
+
 
 ## Hypotheses
 1.	The VR environment combined with the Southampton Hand Assessment Procedure (SHAP) tests and the MYO armband will not increase pain in the test subjects.
