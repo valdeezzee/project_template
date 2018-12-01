@@ -61,7 +61,9 @@ We will be using Unity3d to create a virtual enviroment where a user can run tes
 
 For each SHAP test there will be tasks. We will measure a users performance by time of complete of each test. We will also collect completion times of each task, gender and age. With collecting completion time, we will compare those numbers with the represented virtual limb variables. Some of those variable are going to be: just a hand, hand w/forearm, skin color, gender, glove, no glove. 
 
-We want to be able to know the pain level a patient is expriencing before and after they are inside the virtual reality environment. We will be using a Short-Form McGill Pain Questionnaire, Visual Analog Scale (VAS) and the Wong-Baker FACES pain scale, to see if there is any changes in pain. 
+We will be using an Illusion Of Virtual Body Ownership (IVBO) Questionaire to see how strong the illusion of owning the virtual limb in the VR environment is. 
+
+For participants that are amputees, we want to be able to know the pain level a patient is expriencing before and after they are inside the virtual reality environment. We will be using a Short-Form McGill Pain Questionnaire, Visual Analog Scale (VAS) and the Wong-Baker FACES pain scale, to see if there is any changes in pain. 
 
 • McGill Pain Questionnaire: https://www.physio-pedia.com/Short-form_McGill_Pain_Questionnaire
 
