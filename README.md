@@ -135,6 +135,8 @@ Lugrin, J. L., Landeck, M., & Latoschik, M. E. (2015, March). Avatar embodiment 
 
 Lugrin, J. L., Latt, J., & Latoschik, M. E. (2015, October). Anthropomorphism and illusion of virtual body ownership. In Proceedings of the 25th International Conference on Artificial Reality and Telexistence and 20th Eurographics Symposium on Virtual Environments (pp. 1-8). Eurographics Association.
 
+Martini, M., Pérez Marcos, D., & Sanchez-Vives, M. V. (2013). What color is my arm? Changes in skin color of an embodied virtual arm modulates pain threshold. Frontiers in human neuroscience, 7, 438.
+
 Slater, M., Pérez Marcos, D., Ehrsson, H., & Sanchez-Vives, M. V. (2009). Inducing illusory ownership of a virtual body. Frontiers in neuroscience, 3, 29.
 
 Ziegler-Graham, K., MacKenzie, E. J., Ephraim, P. L., Travison, T. G., & Brookmeyer, R. (2008). Estimating the prevalence of limb loss in the United States: 2005 to 2050. Archives of physical medicine and rehabilitation, 89(3), 422-429.
