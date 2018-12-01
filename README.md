@@ -20,6 +20,11 @@ With the increasing amount of amputees, there is sure to be a need for more trai
 
 To tackle this problem, we plan on using Virtual Reality with the combination of the MYO armband. With VR we want to create realistic environments to immerse the user and help reduce pain with different forms of distractions. In the simulation we will have hand and/or arm assets to create the illusion of Virtual Body Ownership. This way the users mind can be convinced that the virtual arm is theirs. The myo armband will be used to collect muscle signals that then get translated to hand gestures. With the hand gestures we will create animations that correspond to the hand gestures the user is making. In addition, we want to create simple tasks that the user can perform. These task will be taken from the Southampton Hand Assessment Procedure (SHAP). It is a clinically validated hand function test. 
 
+Contributions
+1. VR therapy and rehabilitation
+2. Pre and Post Prosthetics training
+3. Avatar embodiment research
+
 (I tell sutdents to answer the questions, one paragaph each to start if you are lost)
 
 (Problem Statement. One paragraph to describe the prob-lem that you are tackling.)
@@ -31,9 +36,7 @@ To tackle this problem, we plan on using Virtual Reality with the combination of
 (Contributions. An enumeration of the contributions of the senior design project)
 
 (This project makes the following contributions:)(you must have this!!)
-• VR therapy and rehabilitation
-•	Pre and Post Prosthetics training
-• Avatar embodiment research
+
 
 
 ## Related Work
