@@ -161,6 +161,10 @@ Question 9: I felt like the virtual body part I saw looked human. <br/>
 Mean: 5 <br/>
 Mode: 5
 
+Overall IVBO score from Questions 1-9 </br>
+Mean: 4.4722222 </br>
+Mode: 5
+
 Question 10: What exactly gave you the feeling that the virtual body part is your own, or what has prevented it? <br/>
 Responses- "calibration was somewhat off and changed during the experiment, so I had to twist and adapt to get results in the experiment (grabbing motion)"; "the movement", "What has prevented it was the hand movements and the skin color", "Just how it moved as I moved my actual arm"
 
