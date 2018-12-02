@@ -122,6 +122,10 @@ For participants that are amputees, we want to be able to know the pain level a 
 [**Live MYOwn Reality Demo**](https://youtu.be/L6HFFV_olrU)
 
 Results of IVBO Questionaire 
+![Alt Text](https://github.com/valdeezzee/project_template/blob/master/IVBO_Res.PNG)
+
+
+[logo]: https://github.com/valdeezzee/project_template/blob/master/IVBO_Res.PNG "IVBO Questionaire Data"
 
 
 ## Conclusions/ Future
