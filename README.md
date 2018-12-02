@@ -121,12 +121,50 @@ For participants that are amputees, we want to be able to know the pain level a 
 
 [**Live MYOwn Reality Demo**](https://youtu.be/L6HFFV_olrU)
 
-Results of IVBO Questionaire 
-![Alt Text](https://github.com/valdeezzee/project_template/blob/master/IVBO_Res.PNG)
+Results of IVBO Questionaire (Scale is from 1 (Not at All) to 7 (Very Much)
+![IVBO Questionaire Data Graphs](https://github.com/valdeezzee/project_template/blob/master/IVBO_Res.PNG "IVBO Questionaire Data")
 
+Question 1: I felt like the body part I saw in the virtual world was my body part . 
+Mean: 3.75
+Mode: 5
 
-[logo]: https://github.com/valdeezzee/project_template/blob/master/IVBO_Res.PNG "IVBO Questionaire Data"
+Question 2: The illusion of owning a different body part than my real one was very strong during the experience.
+Mean: 4
+Mode: N/A
 
+Question 3: The movements I saw in the virtual world seemed to be my own movements.
+Mean: 5.25
+Mode: 5
+
+Question 4: I enjoyed controlling the virtual body part I saw in the virtual world.
+Mean: 6
+Mode: 7
+
+Question 5: At a time during the experiment I felt as if my real body part changed in its shape and/or texture.
+Mean: 3.5
+Mode: N/A
+
+Question 6: After taking off the head mounted display (HMD), I felt the need to check that my body part does really still look like to what I had in mind.
+Mean: 3.25
+Mode: 1
+
+Question 7: I felt an after-effect as if my body part had become lighter/heavier.
+Mean: 3
+Mode: N/A
+
+Question 8: How did you like the overall experience in the virtual world?
+Mean: 6.5
+Mode: N/A
+
+Question 9: I felt like the virtual body part I saw looked human.
+Mean: 5
+Mode: 5
+
+Question 10: What exactly gave you the feeling that the virtual body part is your own, or what has prevented it?
+Responses- "calibration was somewhat off and changed during the experiment, so I had to twist and adapt to get results in the experiment (grabbing motion)"; "the movement", "What has prevented it was the hand movements and the skin color", "Just how it moved as I moved my actual arm"
+
+Question 11: When was the feeling of owning the virtual body part especially strong or weak?
+Responses: "it was always more weak that strong, but that was due to the calibration", "strong", "It was stronger when the movements were in sync", "Whenever I picked up an object and moved it around with the virtual arm"
 
 ## Conclusions/ Future
 
