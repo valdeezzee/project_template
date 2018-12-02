@@ -5,6 +5,8 @@
 > * Group participants names: Kamryx Davis, Jonathan Valderrama
 > * Project Title: VR environments for amputee prosthetics training and rehabilitation
 
+![Picture from Unity Scene](https://github.com/valdeezzee/project_template/blob/master/TS.PNG "Picture from Unity Scene")
+
 ## Purpose Statement
 The purpose of this study is to explore different way of mitigating phantom limb pain in amputees and providing alternate methods for prosthetics training and rehabilitation.
 
@@ -97,7 +99,7 @@ This is a mixed methods approach as we collect qualitative data from the questio
 • Create scripts to manipulate hand with the MYO armband
 
 ## Plan of Attack / Rough Deliverables
-• Create 2 rooms. Empty room as a control and a home environment.
+• Create 2 rooms. Empty room as a control and a doctor's office.
 
 • Model SHAP tasks and objects.
 
