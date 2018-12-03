@@ -30,7 +30,6 @@ Contributions
 
 ## Related Work
 
-Discuss briefly about published matter that technically relates to your proposed work in 4-5 paragraphs.
 
 From several pieces of published literature, we have learned that amputation is becoming an increasingly larger problem worldwide and have learned possible treatments for the rehabilitation of amputees using virtual reality and myoelectric control. 
  
