@@ -48,6 +48,8 @@ There have been several experiments done with rehabilitation, training, and ther
 
 ## Research Methods
 
+![Picture from Unity Scene of SHAP Test](https://github.com/valdeezzee/project_template/blob/master/UHS.PNG "Picture from Unity Scene")
+
 We will be using Unity3d to create a virtual enviroment where a user can run tests taken from Southampton Hand Assessment Procedure (SHAP). In Unity there are plugins to easily implement vr support and also plugins for the myo band. We will import hand assets and then modify their animations to match up with the different gestures the myo band is able to detect. Models will be created for the user to interact with and be able to perform the SHAP tests.
 
 For each SHAP test there will be tasks. We will measure a users performance by time of complete of each test. We will also collect completion times of each task, gender and age. With collecting completion time, we will compare those numbers with the represented virtual limb variables. Some of those variable are going to be: just a hand, hand w/forearm, skin color, gender, glove, no glove. 
