@@ -107,10 +107,20 @@ This is a mixed methods approach, as we collect qualitative data from the questi
 
 ## Results
 
+Results from SHAP Tests
+
 
 [**MYOwn Reality Demo**](https://youtu.be/JQdwn2WIh4Q)
 
 [**Live MYOwn Reality Demo**](https://youtu.be/L6HFFV_olrU)
+
+![Spherical Control Room Data Graph](https://github.com/valdeezzee/project_template/blob/master/Spherical_Control.png "Spherical Control Room Data")
+
+
+![Spherical Doctors Office Data Graph](https://github.com/valdeezzee/project_template/blob/master/Spherical_Doctors_Office.png "Spherical Doctor's Office Data")
+
+
+
 
 Results of IVBO Questionaire (Scale is from 1 (Not at All) to 7 (Very Much)
 ![IVBO Questionaire Data Graphs](https://github.com/valdeezzee/project_template/blob/master/IVBO_Res.PNG "IVBO Questionaire Data")
