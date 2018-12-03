@@ -69,10 +69,10 @@ If participants are amputees, we want to be able to know the pain level a patien
 This is a mixed methods approach, as we collect qualitative data from the questionaires and quantitave data from the completion times in the VR environment. 
 
 ## Hypotheses
-1.	The VR environment combined with the Southampton Hand Assessment Procedure (SHAP) tests and the MYO armband will not increase pain in the test subjects.
-2.	Variables such as gender and age will affect the completion times of the SHAP tests in the VR environment.
-3.	VR limb variables such as hand and arm appearance will affect the completion times of the SHAP tests.
-4. The subjects' SHAP tests completion times will decrease with multiple trials. 
+1. Variables such as gender and age will affect the completion times of the SHAP tests in the VR environment.​
+2. VR limb variables such as hand and arm appearance will affect the completion times of the SHAP tests.​
+3. The VR environment combined with the Southampton Hand Assessment Procedure (SHAP) tests and the MYO armband will not increase pain in the test subjects.​
+4. The subjects' SHAP tests completion times will decrease with multiple trials.
 
 
 ## Preliminary Framework
@@ -114,12 +114,15 @@ Results from SHAP Tests
 
 [**Live MYOwn Reality Demo**](https://youtu.be/L6HFFV_olrU)
 
-![Spherical Control Room Data Graph](https://github.com/valdeezzee/project_template/blob/master/Spherical_Control.png "Spherical Control Room Data")
+Results from SHAP Tests
 
+![Spherical Control Room Data Graph](https://github.com/valdeezzee/project_template/blob/master/Spherical_Control.png "Spherical Control Room Data")
 
 ![Spherical Doctors Office Data Graph](https://github.com/valdeezzee/project_template/blob/master/Spherical_Doctors_Office.png "Spherical Doctor's Office Data")
 
+![Room Male Participant Data Graph](https://github.com/valdeezzee/project_template/blob/master/Room_Male_Participant.png "Room Male Participant Data")
 
+![Room Female Data Graph](https://github.com/valdeezzee/project_template/blob/master/Room_Female_Participant.png "Room Female Particpant Data")
 
 
 Results of IVBO Questionaire (Scale is from 1 (Not at All) to 7 (Very Much)
