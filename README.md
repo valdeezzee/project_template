@@ -120,9 +120,9 @@ Results from SHAP Tests
 
 ![Spherical Doctors Office Data Graph](https://github.com/valdeezzee/project_template/blob/master/Spherical_Doctors_Office.png "Spherical Doctor's Office Data")
 
-![Room Male Participant Data Graph](https://github.com/valdeezzee/project_template/blob/master/Room_Male_Participant.png "Room Male Participant Data")
+![Room Male Participant Data Graph](https://github.com/valdeezzee/project_template/blob/master/Room_Male_ParticipantUp.png "Room Male Participant Data")
 
-![Room Female Data Graph](https://github.com/valdeezzee/project_template/blob/master/Room_Female_Participant.png "Room Female Particpant Data")
+![Room Female Data Graph](https://github.com/valdeezzee/project_template/blob/master/Room_Female_ParticipantUp.png "Room Female Particpant Data")
 
 From looking at the graphs we can see that people tended to do better in the control room as compared to the doctor's office. This could be due to the doctor's office having more distractions. 
 
