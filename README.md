@@ -166,24 +166,24 @@ Mean: 5 <br/>
 Mode: 5
 
 Body Ownership IVBO Score (Questions 1 and 2)<br/>
-Mean: <br/>
-Mode: <br/>
+Mean: 3.875 <br/>
+Mode: 2 <br/>
 
 Agency IVBO Score (Questions 3 and 4) <br/>
-Mean: <br/>
-Mode: <br/>
+Mean: 5.625 <br/>
+Mode: 7 <br/>
 
 Real Body Change IVBO Score (Questions 5, 6, and 7) <br/>
-Mean: <br/>
-Mode: <br/>
+Mean: 3.25 <br/>
+Mode: 1 <br/>
 
 Enjoyment IVBO Score (Question 8) <br/>
-Mean: <br/>
-Mode: <br/>
+Mean: 6.5 <br/>
+Mode: N/A <br/>
 
 Anthropomorphism IVBO Score (Question 9) <br/>
-Mean: <br/>
-Mode: <br/>
+Mean: 5 <br/>
+Mode: 5 <br/>
 
 Overall IVBO score from Questions 1-9 </br>
 Mean: 4.4722222 </br>
