@@ -195,7 +195,7 @@ Responses- "calibration was somewhat off and changed during the experiment, so I
 Question 11: When was the feeling of owning the virtual body part especially strong or weak? <br/>
 Responses: "it was always more weak that strong, but that was due to the calibration", "strong", "It was stronger when the movements were in sync", "Whenever I picked up an object and moved it around with the virtual arm"
 
-The lowest scores of the IVBO questionaire were in the areas of Body Ownership (3.875 out of 7) and Real Body Change (3.25 out of 7). This could be due to the calibration of the MYO band, the movement between the actual hand and the virtual hand wasn't completely in sync. 
+The lowest scores of the IVBO questionaire were in the areas of Body Ownership, the mean was 3.875 out of 7 and Real Body Change, the mean was 3.25 out of 7. This could be due to the calibration of the MYO band, the movement between the actual hand and the virtual hand wasn't completely in sync. The highest scores of the IVBO questionaire were in the areas of Agency, the mean was 5.625 out of 7 and  Enjoyment, the mean was 6.5 out of 7.
 
 ## Conclusions/ Future
 VR combined with a MYO arm band is a possible way to train and rehabilitate amputees and provide prosthetics training. Based on the IVBO questionaire, we know that we need to make the movement between the user's hand and the virtual hand more synchronous to improve the illusion of virtual body ownership and increase the user's experience in the VR environment. 
