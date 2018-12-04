@@ -129,39 +129,39 @@ From looking at the graphs we can see that people tended to do better in the con
 Results of IVBO Questionaire (Scale is from 1 (Not at All) to 7 (Very Much)
 ![IVBO Questionaire Data Graphs](https://github.com/valdeezzee/project_template/blob/master/IVBO_Res.PNG "IVBO Questionaire Data")
 
-Question 1: I felt like the body part I saw in the virtual world was my body part. <br/>
+Question 1: I felt like the body part I saw in the virtual world was my body part. (Topic: Body Ownership)<br/>
 Mean: 3.75 <br/>
 Mode: 5
 
-Question 2: The illusion of owning a different body part than my real one was very strong during the experience. <br/>
+Question 2: The illusion of owning a different body part than my real one was very strong during the experience. (Topic: Body Ownership) <br/>
 Mean: 4 <br/>
 Mode: N/A
 
-Question 3: The movements I saw in the virtual world seemed to be my own movements. <br/>
+Question 3: The movements I saw in the virtual world seemed to be my own movements. (Topic: Agency) <br/>
 Mean: 5.25 <br/>
 Mode: 5
 
-Question 4: I enjoyed controlling the virtual body part I saw in the virtual world. <br/>
+Question 4: I enjoyed controlling the virtual body part I saw in the virtual world. (Topic: Agency) <br/>
 Mean: 6 <br/>
 Mode: 7
 
-Question 5: At a time during the experiment I felt as if my real body part changed in its shape and/or texture. <br/>
+Question 5: At a time during the experiment I felt as if my real body part changed in its shape and/or texture. (Topic: Real Body Change) <br/>
 Mean: 3.5 <br/>
 Mode: N/A
 
-Question 6: After taking off the head mounted display (HMD), I felt the need to check that my body part does really still look like to what I had in mind. <br/>
+Question 6: After taking off the head mounted display (HMD), I felt the need to check that my body part does really still look like to what I had in mind. (Topic: Real Body Change) <br/>
 Mean: 3.25 <br/>
 Mode: 1
 
-Question 7: I felt an after-effect as if my body part had become lighter/heavier. <br/>
+Question 7: I felt an after-effect as if my body part had become lighter/heavier. (Topic: Real Body Change) <br/>
 Mean: 3 <br/>
 Mode: N/A
 
-Question 8: How did you like the overall experience in the virtual world? <br/>
+Question 8: How did you like the overall experience in the virtual world? (Topic: Enjoyment) <br/>
 Mean: 6.5 <br/>
 Mode: N/A
 
-Question 9: I felt like the virtual body part I saw looked human. <br/>
+Question 9: I felt like the virtual body part I saw looked human. (Topic: Anthropomorphism)  <br/>
 Mean: 5 <br/>
 Mode: 5
 
