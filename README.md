@@ -204,6 +204,8 @@ If we had 1-2 more semesters, we could enhance this project and explore more pos
 ## Final Presentation
 [Final Presentation](https://knightsucfedu39751-my.sharepoint.com/:p:/g/personal/jvalderrama91_knights_ucf_edu/EU2b3HxMIN1GoUkIytytxzMB_1k_9dOK33CoSmt6Nd8ZkA?e=4BHPP2)
 
+[Final Presentation Video](https://youtu.be/8qbKy50BcgE)
+
 ## References 
 
 Advanced Amputee Solutions, LLC. (2012). Amputee Statistics You Ought to Know. Retrieved from http://www.advancedamputees.com/amputee-statistics-you-ought-know
